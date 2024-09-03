@@ -19,4 +19,10 @@ Para descargar y usar este programa, sigue estos pasos:
 1. Abre una terminal o línea de comandos.
 2. Ejecuta el siguiente comando para clonar el repositorio:
    ```bash
-   git clone https://github.com/TomyFernandez/Practico-HTML
+   git clone https://github.com/TomyFernandez/Practico-CSS/
+
+## COMENTARIOS
+1.Tuve problema para dejar correctamente la parte de los elementos con pocisión relativa y con pocisión absoluta.
+2.Las animaciones no se son las correspondientes, me costó hacerlas, tuve que recurrir a Mistral AI. 
+3.El blockquote no se si esta correcto
+
